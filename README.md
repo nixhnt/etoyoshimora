@@ -1,4 +1,4 @@
-# <p align="left"><a href="https://github.com/Awesome-Prince/NekoRobot-3"><img src="https://github-readme-stats.vercel.app/api/pin?username=Awesome-Prince&show_icons=true&theme=dark&hide_border=true&repo=NekoRobot-3"></a></p>
+# <p align="left"><a href="https://github.com/nixhnt/etoyoshimora.git"><img src="https://github-readme-stats.vercel.app/api/pin?username=nixhnt&show_icons=true&theme=dark&hide_border=true&repo=NekoRobot-3"></a></p>
 A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
 
 ###  ╔═━「 Status 」
